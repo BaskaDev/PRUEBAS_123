@@ -23,11 +23,13 @@ public class Controller {
 	   
 	    
 	  Contacto c = new Contacto(1, nombre , x);
-	  ContactoDTO cdto = new ContactoDTO();
+	  /*ContactoDTO cdto = new ContactoDTO();
 	    
 	    cdto.setId(1);
 	    cdto.setNombre(nombre);
 	    cdto.setNumbero(x);
+	  
+	  */
 	    
 	    
 	    
